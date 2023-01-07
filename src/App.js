@@ -33,7 +33,7 @@ const choicesList = [
     id: 'SCISSORS',
     imageUrl:
       'https://assets.ccbp.in/frontend/react-js/rock-paper-scissor/scissor-image.png',
-    data: 'ScissorsButton',
+    data: 'scissorsButton',
   },
   {
     id: 'PAPER',
